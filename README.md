@@ -1,1 +1,1 @@
-# hbase
+Apache HBase
