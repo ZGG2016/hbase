@@ -1,1 +1,1 @@
-Apache HBase
+HBase
